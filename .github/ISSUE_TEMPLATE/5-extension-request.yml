@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Optional extensions go into the next minor version (3.x).
+        Optional extensions to be considered for next minor version (3.x).
         The core team reviews requests in its meetings and may invite you to present the use case in a guest session.
   - type: textarea
     id: use-case
